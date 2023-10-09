@@ -1,0 +1,12 @@
+name: PatientProfile
+title: PatientProfile
+username: oakfix-chuck-chen
+account: oakfix-chuck-chen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10128758
+bundleId:
+url: https://oakfix-chuck-chen.shinyapps.io/PatientProfile/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
